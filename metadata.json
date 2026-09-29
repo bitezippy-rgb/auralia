@@ -1,0 +1,6 @@
+{
+  "name": "AURELIA — Avant-Garde 3D Gastronomy",
+  "description": "An immersive 3D culinary experience featuring haute modern gastronomy, interactive WebGL 3D visuals, curated seasonal tasting menus, and luxury table reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
